@@ -1,0 +1,11 @@
+git init -> initialize
+git add file/-A
+git status
+git commit -m "message" file
+git log -> self explained
+git reset --soft HEAD~ -> undo last commit
+git help <command> -> git man
+git diff file -> diferences between changes and commited file
+.gitignore -> file containing files to be ignored by git
+git branch -> available branches in repository
+git checkout <branchName> -> let u work in sprecified branch
