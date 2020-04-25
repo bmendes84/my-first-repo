@@ -10,3 +10,5 @@ git diff file -> diferences between changes and commited file
 git branch -> available branches in repository
 git checkout <branchName> -> let u work in sprecified branch
 git merge <branch name>
+git remote add origin https://github.com/bmendes84/my-first-repo.git
+git push -u origin master -> sync files from master branch to remote git folder: origin
