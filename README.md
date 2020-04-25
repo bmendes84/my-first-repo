@@ -20,5 +20,5 @@ Last night i dreamt about eating in these restaurants:
 
 ### Contact
 
-The best way to get in touch with me is [on instagram](httpos://www.instagram.com/bruno_josime)
+The best way to get in touch with me is [on instagram](https://www.instagram.com/bruno_josime)
 
