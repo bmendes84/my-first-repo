@@ -12,3 +12,18 @@ git checkout <branchName> -> let u work in sprecified branch
 git merge <branch name>
 git remote add origin https://github.com/bmendes84/my-first-repo.git
 git push -u origin master -> sync files from master branch to remote git folder: origin
+
+MARKDOWN:
+(#,##) make headings
+*word* make it italic
+**word** make it bold
+(-) or (1.,2.,3....) creates lists
+`code`ceates code style inline
+
+```
+creates code style
+in block
+```
+[link title](actual link)
+![image title](link to image)
+ 

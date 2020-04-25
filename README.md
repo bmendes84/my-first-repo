@@ -1,30 +1,24 @@
-# This is a large heading
+# Bruno Mendes
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Porto, Portugal
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is 
-2. an ordered
-3. list
- 
-Here is `some code` in the midle of a sentence.
+Three of my favourite books are:
+- *100 years of solitude* by Gabriel Garcia Marquez
+- *1984* by orwell
+- *Ensaio sobre a Lucidez*  by José Saramago
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night i dreamt about eating in these restaurants:
+1. Pingarelho in Vizela
+2. O Barbas in Costa da Caparica
+3. Claudino in Maia
 
-![This is a image.](https://github.com/yihui/xarigan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
 
+The best way to get in touch with me is [on instagram](https://www.instagram.com/bruno_josime/).
 
